@@ -148,7 +148,7 @@
   top: 50%;
   transform: translateY(-50%);
   right: 0;
-  background: var(--rs-online-color);
+  background: #FFFFFF;
   z-index: 1;
 }
 
