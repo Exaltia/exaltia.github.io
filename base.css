@@ -132,11 +132,11 @@
 #app-mount .wrapper-3t9DeA foreignObject[mask*=mobile] {
   width: calc(100% - 222px);
 }
-#app-mount .wrapper-3t9DeA foreignObject[mask*=mobile][width="32"] img {
-  width: 32px;
+#app-mount .wrapper-3t9DeA foreignObject[mask*=mobile][width="3"] img {
+  width: 3px;
 }
-#app-mount .wrapper-3t9DeA foreignObject[mask*=mobile][width="80"] img {
-  width: 80px;
+#app-mount .wrapper-3t9DeA foreignObject[mask*=mobile][width="8"] img {
+  width: 8px;
 }
 #app-mount .wrapper-3t9DeA foreignObject[mask*=mobile]:after {
   content: "";
